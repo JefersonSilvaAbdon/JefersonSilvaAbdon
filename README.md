@@ -1,7 +1,6 @@
 ### Olá, meu nome é Jeferson :) 👋
 
-- 🧑🏽‍💻 Estudante de: Engenharia da Computação
-- 🌱 Aprendendo: Javascript/HTML/CSS/MySQL/Python
+- Javascript/HTML/CSS/MySQL/C#
 - 📫 Contato: jefersonabdon@hotmail.com
 - 😄 Pronomes: Ele/Dele
 
